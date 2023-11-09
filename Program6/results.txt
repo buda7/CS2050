@@ -1,0 +1,7 @@
+Number of Integers: 20000
+Bubble Sort Integers Time: 1187214314 nanoseconds
+Selection Sort Integers Time: 524719298 nanoseconds
+
+Number of Strings: 10000
+Bubble Sort Strings Time: 1150755678 nanoseconds
+Arrays Sort Strings Time: 13935400 nanoseconds
