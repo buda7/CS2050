@@ -1,0 +1,10 @@
+Number of Integers: 20000
+Bubble Sort Integers Time: 1017632071 nanoseconds
+Selection Sort Integers Time: 203571119 nanoseconds
+Insertion Sort Integers Time: 37428227 nanoseconds
+
+Number of Strings: 10000
+Bubble Sort Strings Time: 730992293 nanoseconds
+Selection Sort Strings Time: 193021953 nanoseconds
+Arrays Sort Strings Time: 7075139 nanoseconds
+Insertion Sort Strings Time: 175643369 nanoseconds
